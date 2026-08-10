@@ -30,7 +30,6 @@ void sortArray(int arr[], int length) {
       }
     }
     swap(arr, i, min_index);
-    printArray(arr, length);
   }
 }
 
