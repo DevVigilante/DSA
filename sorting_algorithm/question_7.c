@@ -26,7 +26,6 @@ void sortArray(int arr[], int length) {
       }
     }
   }
-  printf("\n");
 }
 
 
