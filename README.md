@@ -13,4 +13,5 @@
 - QuestionID 9: [Write a program to sort the given array of integers into ascending form using insertion sort algorithm](https://github.com/DevVigilante/DSA/blob/main/sorting_algorithm/question_9.c)
 
 ## Recursion
-- QuestionID 10: [Write a program to print number from 5 to 1 using recursion](https://github.com/DevVigilante/DSA/blob/main/sorting_algorithm/question_10.c)
+- QuestionID 10: [Write a program to print number from 5 to 1 using recursion](https://github.com/DevVigilante/DSA/blob/main/recursion/question_10.c)
+- QuestionID 11: [Write a program to print number from 1 to 5 using recursion](https://github.com/DevVigilante/DSA/blob/main/recursion/question_11.c)
