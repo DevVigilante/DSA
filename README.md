@@ -16,3 +16,4 @@
 - QuestionID 10: [Write a program to print number from 5 to 1 using recursion](https://github.com/DevVigilante/DSA/blob/main/recursion/question_10.c)
 - QuestionID 11: [Write a program to print number from 1 to 5 using recursion](https://github.com/DevVigilante/DSA/blob/main/recursion/question_11.c)
 - QuestionID 12: [Write a program to get sum of first n natural number using recursion](https://github.com/DevVigilante/DSA/blob/main/recursion/question_12.c)
+- QuestionID 13: [Print factorial of a given number n](https://github.com/DevVigilante/DSA/blob/main/recursion/question_13.c)
